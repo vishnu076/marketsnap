@@ -1,4 +1,6 @@
 # marketsnap
+Imagine you have an idea about a product. But you dont have much idea about product research here is where the tool comes to play.You only have to input you idea and the AI tool will give you details regarding product demographic area, competitors,keywords,painpoints 
+and marketfit of the product.
 ## Current funtionalitiies
     * Added scraped data to the database
     * added functionality to compare one product with other and identify the similaritiies using nlp
