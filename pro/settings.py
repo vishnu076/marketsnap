@@ -41,7 +41,10 @@ INSTALLED_APPS = [
     'api',
     'spacy',
     'sentence_transformers',
-    'numpy'
+    'selenium',
+    'bs4',
+    
+    'pytrends'
 ]
 
 MIDDLEWARE = [
